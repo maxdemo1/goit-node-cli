@@ -1,7 +1,6 @@
 import * as fs from "node:fs/promises";
 import path from "node:path";
 import { nanoid } from "nanoid";
-import { error } from "node:console";
 
 const contactsPath = path.resolve("db", "contacts.json");
 

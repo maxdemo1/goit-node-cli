@@ -1,22 +1,5 @@
 {
-  "name": "goit-node-cli",
-  "version": "1.0.0",
-  "description": "homework1",
-  "main": "index.js",
   "type": "module",
-  "scripts": {
-    "test": "--test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/maxdemo1/goit-node-cli.git"
-  },
-  "author": "max <maxbrownwot@gmail.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/maxdemo1/goit-node-cli/issues"
-  },
-  "homepage": "https://github.com/maxdemo1/goit-node-cli#readme",
   "dependencies": {
     "commander": "^12.0.0",
     "nanoid": "^5.0.7"
